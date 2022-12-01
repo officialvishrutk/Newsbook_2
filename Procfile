@@ -1,0 +1,1 @@
+web: gunicorn Ashish08.wsgi --log-file -
