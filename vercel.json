@@ -22,6 +22,10 @@
       {
         "src": "/(.*)",
         "dest": "Ashish08/wsgi.py"
+      },
+      {
+        "src": "/(.*)",
+        "dest": "Ashish08/projects/views.py"
       }
     ]
   }
